@@ -1,4 +1,4 @@
-# 🚀 README: Harnessing Support Vector Machines (SVM) in Healthcare
+# 🚀Harnessing Support Vector Machines (SVM) in Healthcare
 
 Welcome to the **SVM in Healthcare** project! This repository showcases how Support Vector Machines can be effectively used for binary classification tasks in healthcare, such as distinguishing between cancerous and non-cancerous samples. Through this project, you'll learn about SVM's key benefits, its limitations, and how to interpret its visualizations, all presented in a clear and visually engaging manner.
 
